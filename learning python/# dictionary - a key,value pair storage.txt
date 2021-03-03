@@ -1,0 +1,15 @@
+# dictionary  - a key,value pair storage
+
+# inserting
+diction[key] = value
+
+# getting a value 
+diction[key]
+
+#getting all the keys
+dictionary.keys()
+
+#get all the values  - output : 
+dictionary.values()
+
+
